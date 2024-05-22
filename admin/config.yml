@@ -282,7 +282,7 @@ collections:
           - label: "Primary Dark Color"
             name: "primaryDark"
             widget: "color"
-            default: "#141414"
+            default: "#ffffff"
           - label: "Accent Dark Color"
             name: "accentDark"
             default: "#ffffff"
